@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11399_ATM", "11399_ATM\1139
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11047_동전 0", "11047_동전 0\11047_동전 0.vcxproj", "{9FCF039E-FA65-4360-8F90-403CF874EB70}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1913_회의실 배정", "1913_회의실 배정\1913_회의실 배정.vcxproj", "{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9FCF039E-FA65-4360-8F90-403CF874EB70}.Release|x64.Build.0 = Release|x64
 		{9FCF039E-FA65-4360-8F90-403CF874EB70}.Release|x86.ActiveCfg = Release|Win32
 		{9FCF039E-FA65-4360-8F90-403CF874EB70}.Release|x86.Build.0 = Release|Win32
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Debug|x64.ActiveCfg = Debug|x64
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Debug|x64.Build.0 = Debug|x64
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Debug|x86.Build.0 = Debug|Win32
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Release|x64.ActiveCfg = Release|x64
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Release|x64.Build.0 = Release|x64
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Release|x86.ActiveCfg = Release|Win32
+		{B7F6E8F5-20B5-4274-AAD2-F85320899CD6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
